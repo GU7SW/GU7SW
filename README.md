@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuyuretriever
+- 👋 Hi, I’m @GU7SW
 - 👀 I’m interested in python
 - 🌱 I’m currently learning java script
 
